@@ -46,9 +46,6 @@ d(D1,D2) = angle between 2 vectors.
 ![image](https://github.com/y0sif/calculate-distance/assets/61329766/a885ad32-aae2-4759-8256-2ceefe31f7b3)
 
 
-
-
-
 # Algorithm
 Split each document into words 
 
@@ -57,6 +54,12 @@ Count word frequencies (document vectors)
 NOTE: Max Freq. Value BOUNDED BY 100,000
 
 Compute distance
+
+# Where to Start?
+all code to be written inside problem.rs
+
+![image](https://github.com/y0sif/calculate-distance/assets/61329766/7f71bf7c-4f27-470c-b00c-e312627b0dbe)
+
 
 # Best Score to beat
 average execution time (ms) = 118
