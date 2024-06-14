@@ -66,3 +66,16 @@ average execution time (ms) = 118
 
 Max execution time (ms) = 235
 
+# How to run tests?
+use the following command
+
+```
+cargo run
+```
+
+for release test use the following command
+
+```
+cargo run --release
+```
+
